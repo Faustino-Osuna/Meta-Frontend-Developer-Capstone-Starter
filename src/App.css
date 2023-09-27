@@ -183,8 +183,7 @@ input, label{
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem 6rem;
+  gap: 2rem 1rem;
 }
 
 .menu-items{
